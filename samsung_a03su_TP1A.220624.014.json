@@ -1,4 +1,4 @@
-ap"terminal.integrated.env.windows": {
+apt"terminal.integrated.env.windows": {
     "JAVA_HOME": "C:\\Users\\lilne\\AppData\\Roaming\\Code\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\21",
     "PATH": "C:\\Users\\lilne\\AppData\\Roaming\\Code\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\21\\bin;${env:PATH}",
     "GRAALVM_HOME": "c:\\Users\\lilne\\Documents\\graalvm-jdk-22.0.1+8.1"
