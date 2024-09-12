@@ -1,0 +1,29 @@
+2024-09-10 18:45:31.209 [info] [Info  - 6:45:31 PM] (28320) Server root directory: file:///c%3A/Users/lilne/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist
+2024-09-10 18:45:32.191 [info] [Info  - 6:45:32 PM] (28320) Experimental Pylance language server 2024.8.2 (pyright version 1.1.373, commit ee424479) starting
+2024-09-10 18:45:54.019 [info] [Info  - 6:45:54 PM] (28320) Starting service instance "<default>"
+2024-09-10 18:45:54.029 [info] [Info  - 6:45:54 PM] (28320) Background analysis(1) root directory: file:///c%3A/Users/lilne/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist
+2024-09-10 18:45:54.030 [info] [Info  - 6:45:54 PM] (28320) Background analysis(1) started
+2024-09-10 18:46:01.150 [info] [Error - 6:46:01 PM] (28320) File or directory "\<default workspace root>" does not exist.
+2024-09-10 19:07:39.380 [info] [Info  - 7:07:39 PM] Server process exited successfully
+2024-09-10 19:09:18.742 [info] [Info  - 7:09:18 PM] (26544) Server root directory: file:///c%3A/Users/lilne/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist
+2024-09-10 19:09:18.758 [info] [Info  - 7:09:18 PM] (26544) Experimental Pylance language server 2024.8.2 (pyright version 1.1.373, commit ee424479) starting
+2024-09-10 19:09:19.023 [info] [Info  - 7:09:19 PM] (26544) Starting service instance "Podman"
+2024-09-10 19:09:19.055 [info] [Info  - 7:09:19 PM] (26544) Background analysis(1) root directory: file:///c%3A/Users/lilne/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist
+2024-09-10 19:09:19.056 [info] [Info  - 7:09:19 PM] (26544) Background analysis(1) started
+2024-09-10 19:11:14.149 [info] [Error - 7:11:14 PM] Stopping server timed out
+2024-09-10 19:11:15.344 [info] [Info  - 7:11:15 PM] Server process exited successfully
+2024-09-10 19:12:14.554 [info] [Info  - 7:12:14 PM] (29076) Server root directory: file:///c%3A/Users/lilne/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist
+2024-09-10 19:12:14.565 [info] [Info  - 7:12:14 PM] (29076) Experimental Pylance language server 2024.8.2 (pyright version 1.1.373, commit ee424479) starting
+2024-09-10 19:12:32.049 [info] [Info  - 7:12:32 PM] (29076) Starting service instance "<default>"
+2024-09-10 19:12:32.071 [info] [Info  - 7:12:32 PM] (29076) Background analysis(1) root directory: file:///c%3A/Users/lilne/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist
+2024-09-10 19:12:32.079 [info] [Info  - 7:12:32 PM] (29076) Background analysis(1) started
+2024-09-10 19:12:37.423 [info] [Error - 7:12:37 PM] (29076) File or directory "\<default workspace root>" does not exist.
+2024-09-10 19:13:03.123 [info] [Info  - 7:13:03 PM] Server process exited successfully
+2024-09-10 19:13:04.400 [info] [Info  - 7:13:04 PM] (32592) Server root directory: file:///c%3A/Users/lilne/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist
+2024-09-10 19:13:04.439 [info] [Info  - 7:13:04 PM] (32592) Experimental Pylance language server 2024.8.2 (pyright version 1.1.373, commit ee424479) starting
+2024-09-10 19:13:04.833 [info] [Info  - 7:13:04 PM] (32592) Starting service instance "<default>"
+2024-09-10 19:13:05.268 [info] [Error - 7:13:05 PM] (32592) File or directory "\<default workspace root>" does not exist.
+2024-09-10 19:13:05.456 [info] [Error - 7:13:05 PM] (32592) File or directory "\<default workspace root>" does not exist.
+2024-09-10 19:15:26.176 [info] [Error - 7:15:26 PM] (32592) File or directory "\<default workspace root>" does not exist.
+2024-09-10 19:15:28.933 [info] [Error - 7:15:28 PM] (32592) File or directory "\<default workspace root>" does not exist.
+2024-09-10 19:15:53.008 [info] [Error - 7:15:53 PM] (32592) File or directory "\<default workspace root>" does not exist.
